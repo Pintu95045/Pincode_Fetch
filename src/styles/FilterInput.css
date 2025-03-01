@@ -1,0 +1,10 @@
+/* FilterInput.css - Styling for the FilterInput component */
+.filter-input {
+    width: 100%;
+    padding: 0.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  

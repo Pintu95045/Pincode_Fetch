@@ -1,0 +1,17 @@
+src/
+├── components/
+│   ├── Card.jsx
+│   ├── FilterInput.jsx
+│   ├── Loader.jsx
+│   ├── PincodeForm.jsx
+│   ├── PostOfficeDetails.jsx
+├── styles/
+│   ├── Card.css
+│   ├── FilterInput.css
+│   ├── Loader.css
+│   ├── PincodeForm.css
+│   ├── PostOfficeDetails.css
+│   ├── App.css
+├── App.jsx
+├── index.css
+├── main.jsx

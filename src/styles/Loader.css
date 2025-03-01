@@ -1,0 +1,8 @@
+/* Loader.css - Styling for the Loader component */
+.loader {
+    font-size: 1.5em;
+    color: #888;
+    text-align: center;
+    margin-top: 1em;
+  }
+  
